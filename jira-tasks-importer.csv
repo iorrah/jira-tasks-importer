@@ -1,0 +1,38 @@
+Summary, Assignee, Reporter, Issue Type, Original Estimate
+"[DESIGN] Design user flow sketches", admin, admin, Task, 1800
+"[DESIGN] Design low-fi user flow wireframes", admin, admin, Task, 1800
+"[DESIGN] Design a mood board", admin, admin, Task, 600
+"[DESIGN] Design hi-fi user flow wireframes", admin, admin, Task, 5400
+"[DEV] Create a Vue project with Vue CLI (ifunded)", admin, admin, Task, 300
+"[DEV] Install Vuex", admin, admin, Task, 1800
+"[DEV] Connect the app with Reqres REST API /GET to access users data", admin, admin, Task, 1800
+"[DEV] Feed users list into global data source", admin, admin, Task, 1800
+"[DEV] Display raw data on the page", admin, admin, Task, 600
+"[DEV] Build the users list surrounding elements with style", admin, admin, Task, 5400
+"[DEV] Build filters with style", admin, admin, Task, 3600
+"[DEV] Build sorters with style", admin, admin, Task, 3600
+"[DEV] Build the users list with style", admin, admin, Task, 3600
+"[DEV] Build edit user action trigger", admin, admin, Task, 900
+"[DEV] Build edit user modal", admin, admin, Task, 1200
+"[DEV] Build edit user validation", admin, admin, Task, 1800
+"[DEV] Build edit user /PUT request", admin, admin, Task, 1800
+"[DEV] Build edit user feedback (snack bar)", admin, admin, Task, 1800
+"[DEV] Build add user action trigger", admin, admin, Task, 900
+"[DEV] Build add user modal", admin, admin, Task, 1200
+"[DEV] Build add user validation", admin, admin, Task, 1800
+"[DEV] Build add user /POST request", admin, admin, Task, 1800
+"[DEV] Build add user feedback (snack bar)", admin, admin, Task, 600
+"[DEV] Test REST API Connection for /GET", admin, admin, Task, 3600
+"[DEV] Test REST API Connection for /PUT", admin, admin, Task, 3600
+"[DEV] Test REST API Connection for /POST", admin, admin, Task, 3600
+"[DEV] Test container snapshots", admin, admin, Task, 600
+"[DEV] Test components snapshots", admin, admin, Task, 600
+"[DEV] Test the filtering feature", admin, admin, Task, 3600
+"[DEV] Test the sorting feature", admin, admin, Task, 3600
+"[DEV] Test that modal opens", admin, admin, Task, 1800
+"[DEV] Test that users can be edited", admin, admin, Task, 3600
+"[DEV] Test that users editing are validated", admin, admin, Task, 3600
+"[DEV] Test that after user is edited, snack bar is triggered", admin, admin, Task, 1200
+"[DEV] Test that users can be created", admin, admin, Task, 3600
+"[DEV] Test that users creation are validated", admin, admin, Task, 3600
+"[DEV] Test that after user is created, snack bar is triggered", admin, admin, Task, 1200
